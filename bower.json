@@ -1,4 +1,4 @@
-{
+{^/(200)
   "name": "jsonlint",
   "version": "1.6.0",
   "main": "lib/jsonlint.js",
